@@ -1,3 +1,3 @@
-# Comparing Learning Techniques for Multi-Agent Navigation in Procedurally Generated Cities (Reinforcement Learning)
+# Learning Navigation on Procedurally Generated Cities: A Reinforcement Learning Perspective
 
-A dissertation project for fourth year Master's Computer Science at Newcastle University, by Oliver Fox.
+A dissertation project for third year Master's Computer Science at Newcastle University, by Oliver Fox.
